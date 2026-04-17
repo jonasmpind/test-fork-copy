@@ -2,6 +2,22 @@
   "color": {
     "brand": {
       "primary": {
+        "100": {
+          "$type": "color",
+          "$value": "#cfceeb"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#a6a3e2"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#8682d5"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#6b65d7"
+        },
         "500": {
           "$type": "color",
           "$value": "#4d46c3"
@@ -12,11 +28,15 @@
         },
         "700": {
           "$type": "color",
-          "$value": "#302aac"
+          "$value": "#2b25a6"
         },
         "800": {
           "$type": "color",
-          "$value": "#302aac"
+          "$value": "#1e1892"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#100b6d"
         }
       }
     }
