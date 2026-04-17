@@ -44,7 +44,7 @@
       "grey": {
         "100": {
           "$type": "color",
-          "$value": "#cfceeb"
+          "$value": "#ffffff"
         },
         "200": {
           "$type": "color",
@@ -82,7 +82,7 @@
       "red": {
         "500": {
           "$type": "color",
-          "$value": "#d00e0e"
+          "$value": "#ffffff"
         }
       }
     }
