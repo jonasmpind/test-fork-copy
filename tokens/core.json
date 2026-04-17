@@ -78,6 +78,12 @@
           "$type": "color",
           "$value": "#100b6d"
         }
+      },
+      "reed": {
+        "500": {
+          "$type": "color",
+          "$value": "#d00e0e"
+        }
       }
     }
   }
