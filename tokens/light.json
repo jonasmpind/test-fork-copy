@@ -10,6 +10,10 @@
           "hover": {
             "$type": "color",
             "$value": "{color.brand.primary.600}"
+          },
+          "pressed": {
+            "$type": "color",
+            "$value": "{color.brand.primary.700}"
           }
         }
       }

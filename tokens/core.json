@@ -9,6 +9,10 @@
         "600": {
           "$type": "color",
           "$value": "#3b33c3"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#302aac"
         }
       }
     }
