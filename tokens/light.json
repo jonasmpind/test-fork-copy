@@ -1,0 +1,14 @@
+{
+  "color": {
+    "action": {
+      "brand": {
+        "background": {
+          "default": {
+            "$type": "color",
+            "$value": "{color.brand.primary.500}"
+          }
+        }
+      }
+    }
+  }
+}

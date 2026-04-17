@@ -1,0 +1,16 @@
+{
+  "color": {
+    "brand": {
+      "primary": {
+        "500": {
+          "$type": "color",
+          "$value": "#4d46c3"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#3b33c3"
+        }
+      }
+    }
+  }
+}
